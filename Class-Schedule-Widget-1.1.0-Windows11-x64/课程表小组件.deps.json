@@ -7,7 +7,7 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {},
     ".NETCoreApp,Version=v8.0/win-x64": {
-      "课程表小组件/1.0.0": {
+      "课程表小组件/1.1.0": {
         "dependencies": {
           "Microsoft.Windows.SDK.BuildTools": "10.0.26100.9457",
           "Microsoft.WindowsAppSDK": "1.7.260224002",
@@ -1112,7 +1112,7 @@
     }
   },
   "libraries": {
-    "课程表小组件/1.0.0": {
+    "课程表小组件/1.1.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
